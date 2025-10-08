@@ -1,0 +1,3 @@
+[submodule "ROS-TCP-Connector-Package"]
+	path = ROS-TCP-Connector-Package
+	url = https://github.com/Laboratorio-en-Robotica-Asistencial/ROS-TCP-Connector-Package
